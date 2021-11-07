@@ -17,22 +17,6 @@ The style1.css and style2.css are generated from source files.
 Page design should match v1.png. When page is switched to use styles2.css by changing link to <link rel=“stylesheet" href="css/style2.css">  it should match v2.png.
 You can switch styles manually in header section of index.html.
 
-EXAMPLE
-_main.scss:
-body {
-    background: $contentBackground;
-}
-main {
-      margin: 0 auto;
-      width: 960px;
-}
-...
-_variables1.scss:
-$contentBackground: #fff;
-...
-_variables2.scss:
-$contentBackground: #660;
-
 FONTS AND COLORS
 Fonts are already included in hlml head section, use them as: 
 font-family: 'Source Sans Pro', sans-serif;
