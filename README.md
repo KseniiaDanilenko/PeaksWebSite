@@ -26,3 +26,5 @@ Feel free to use any tool which will help you to pick the right color. Colors sh
 # RESTRICTIONS
 - Do not use any CSS framework for this homework.
 - Do not use any others scss compilers except koala.
+# Link
+  https://kseniiadanilenko.github.io/PeaksWebSite/
